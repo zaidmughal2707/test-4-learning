@@ -3,4 +3,4 @@ def add_numbers(a, b):
 
 if __name__ == "__main__":
     result = add_numbers(10, 5)
-    print(f"The result is: {result}")
+    print(f"The result is: {result} ")
