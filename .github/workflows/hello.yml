@@ -12,3 +12,4 @@ jobs:
          pwd
          hostname
          ls -ltr
+         python3 main.py
