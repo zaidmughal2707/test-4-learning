@@ -7,7 +7,7 @@ on:
 jobs:
   build:
     runs-on: 
-      ${{ matrix.os }} - latest
+      ${{ matrix.os }}-latest
 
 
     strategy:
